@@ -1,4 +1,4 @@
 # SalaryDataScience
 
-![Excel Dashboard](https://github.com/astarirut/SalaryDataScience/tree/main/excel/exceldashboard.png)
+![Excel Dashboard](https://github.com/astarirut/SalaryDataScience/tree/main/Excel/exceldashboard.png)
 
