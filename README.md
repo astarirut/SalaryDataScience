@@ -24,5 +24,5 @@ Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Eng
 - Dashboard Interaktif: Dashboard yang memungkinkan pengguna untuk mengeksplorasi data gaji berdasarkan berbagai kriteria.
 - Rekomendasi: Rekomendasi untuk pemberi kerja dan profesional mengenai strategi kompensasi yang kompetitif dan adil.
 
-**Summary**<br>
+**Conclusion**<br>
 Proyek ini akan memberikan wawasan mendalam mengenai dinamika gaji di bidang data science, membantu para profesional dalam merencanakan karier mereka dan membantu pemberi kerja dalam menetapkan kebijakan gaji yang sesuai.
