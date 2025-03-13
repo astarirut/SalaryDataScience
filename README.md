@@ -5,7 +5,7 @@ Studi Gaji Data Science: Faktor-Faktor yang Mempengaruhi Gaji di Berbagai Peran
 
 ## Project Overview
 
-Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Engineer, dan Data Scientist. Memberikan wawasan mengenai faktor-faktor yang mempengaruhi gaji di berbagai lokasi dan industri.
+Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Engineer, dan Data Scientist.<br> Memberikan wawasan mengenai faktor-faktor yang mempengaruhi gaji di berbagai lokasi dan industri.
 
 **Scope**
 - Pengumpulan Data: Mengumpulkan data gaji dari berbagai sumber.
@@ -24,5 +24,5 @@ Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Eng
 - Dashboard Interaktif: Dashboard yang memungkinkan pengguna untuk mengeksplorasi data gaji berdasarkan berbagai kriteria.
 - Rekomendasi: Rekomendasi untuk pemberi kerja dan profesional mengenai strategi kompensasi yang kompetitif dan adil.
 
-**Summary**
+**Summary**<br>
 Proyek ini akan memberikan wawasan mendalam mengenai dinamika gaji di bidang data science, membantu para profesional dalam merencanakan karier mereka dan membantu pemberi kerja dalam menetapkan kebijakan gaji yang sesuai.
