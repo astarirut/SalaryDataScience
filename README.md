@@ -1,4 +1,4 @@
-# Salary Data Science
+# ✨ Salary Data Science ✨
 
 Studi Gaji Data Science: Faktor-Faktor yang Mempengaruhi Gaji di Berbagai Peran
 
@@ -27,10 +27,10 @@ Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Eng
 **Conclusion**<br>
 Proyek ini akan memberikan wawasan mendalam mengenai dinamika gaji di bidang data science, membantu para profesional dalam merencanakan karier mereka dan membantu pemberi kerja dalam menetapkan kebijakan gaji yang sesuai.
 
-**Tableau Dashboard**
+✨ **Tableau Dashboard**
 
 ![tableau](tableaudashboard.png)
 
-** Excel Dashboard**
+✨ **Excel Dashboard**
 
 ![Excel](Excel/exceldashboard.png)
