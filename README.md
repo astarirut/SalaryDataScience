@@ -30,3 +30,7 @@ Proyek ini akan memberikan wawasan mendalam mengenai dinamika gaji di bidang dat
 **Tableau Dashboard**
 
 ![tableau](tableaudashboard.png)
+
+** Excel Dashboard**
+
+![Excel](Excel/exceldashboard.png)
