@@ -26,3 +26,5 @@ Menganalisis tren gaji di bidang data science untuk peran Data Analyst, Data Eng
 
 **Conclusion**<br>
 Proyek ini akan memberikan wawasan mendalam mengenai dinamika gaji di bidang data science, membantu para profesional dalam merencanakan karier mereka dan membantu pemberi kerja dalam menetapkan kebijakan gaji yang sesuai.
+
+![tableau](tableaudashboard.png)
